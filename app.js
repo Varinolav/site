@@ -11,3 +11,8 @@ korm.addEventListener('click', (event) => {
 
 
 });
+
+tg.MainButton.onClick(() => {
+    document.getElementById('img').src = 'wrs2.png';
+
+})
